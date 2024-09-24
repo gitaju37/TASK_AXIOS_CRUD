@@ -1,0 +1,10 @@
+.user-container,.edit-user-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.user-form{
+    width: 50vw;
+    height: 75vh;
+    border: 1px solid black;
+}

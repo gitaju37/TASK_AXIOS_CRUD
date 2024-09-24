@@ -1,0 +1,8 @@
+body{
+    margin: unset;
+}
+.main-container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
