@@ -1,8 +1,24 @@
-# React + Vite
+# User Management System :notebook_with_decorative_cover:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview :dart:
+This project is a User Management System that allows users to view, edit, and delete user information. It provides a user-friendly interface and leverages React for the front-end.
 
-Currently, two official plugins are available:
+## Features :medal_sports:
+- View a list of users with their details.
+- Edit user information.
+- Delete users from the list.
+- Responsive design for different screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used :large_orange_diamond:
+- **React**: For building the user interface.
+- **Bootstrap & CSS**: For styling the application.
+- **React Router**: For navigation between components.
+- **JavaScript**: For the application's functionality.
+
+## Installation :hammer_and_wrench:
+
+1. Clone the repository:
+   git clone https://github.com/gitaju37/TASK_AXIOS_CRUD.git
+2. Install Install dependencies: npm install
+3. Start the application: npm run dev
+
